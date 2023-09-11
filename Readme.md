@@ -1,4 +1,4 @@
-# Hi there, I'm Ayush Annand 👋
+# Hi there, I'm Abhishek Soni 👋
 
 ## Skills:
 
@@ -46,9 +46,9 @@
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/ayushannand) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ayushannand/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/ayushannand)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/Abhish83454357) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/abhisheksoni125/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/abhisheksoni8920)
 </p>
 
 
@@ -56,22 +56,22 @@
 ### Leetcode Stats
 
 <div>
-  <img src="https://leetcard.jacoblin.cool/ayushannand?ext=heatmap" alt="GitHub Stats" width="80%" margin="50px">
+  <img src="https://leetcard.jacoblin.cool/abhisheksoni125?ext=heatmap" alt="GitHub Stats" width="80%" margin="50px">
 </div>
 
 ### GitHub Stats
 <div>
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ayushannand?cardType=level-alternate&theme=nightowl&preferLogin=true&Ring=DD2727&Border=DD2727" alt="GitHub Stats" width="60%" margin="50px">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/2611406abhishek?cardType=level-alternate&theme=nightowl&preferLogin=true&Ring=DD2727&Border=DD2727" alt="GitHub Stats" width="60%" margin="50px">
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushannand&layout=compact&theme=nightowl" margin="50px" alt="Top Languages" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2611406abhishek&layout=compact&theme=nightowl" margin="50px" alt="Top Languages" width="60%">
 </div>
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushannand&theme=dark" margin="50px" alt="Top Languages" width="60%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2611406abhishek&theme=dark" margin="50px" alt="Top Languages" width="60%">
 </div>
 
 ### GitHub Trophies
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushannand&theme=onedark&column=4" margin="50px" alt="Top Languages" width="48%">
+  <img src="https://github-profile-trophy.vercel.app/?username=2611406abhishek&theme=onedark&column=4" margin="50px" alt="Top Languages" width="48%">
 </div>
