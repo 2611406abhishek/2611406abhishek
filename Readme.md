@@ -6,18 +6,18 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-ff5733?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-254bdd?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 
 #### ML/DL
-
+<!--
 ![Langchain](https://img.shields.io/badge/Langchain-FF6F00?style=for-the-badge&logo=Langchain&logoColor=white)&nbsp;
 ![NLP](https://img.shields.io/badge/NLP-%23F7931E.svg?style=for-the-badge&logo=NLP&logoColor=white)&nbsp;
 ![Vicuna](https://img.shields.io/badge/Vicuna-005571?style=for-the-badge&logo=Vicuna)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;-->
 <!--![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)-->
 
@@ -25,6 +25,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
